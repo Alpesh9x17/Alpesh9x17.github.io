@@ -2,7 +2,7 @@
 layout: page
 title: About
 icon: fas fa-terminal
-order: 1
+order: 4
 ---
 
 # 💀 Root @ revolta: ~#
@@ -14,10 +14,6 @@ I’m **revolta**. By day, I play the part of a "totally normal" IT guy. By nigh
 
 > **RULE #1:** We don't just copy-paste commands. We understand the exploit, or we don't run it.
 {: .prompt-warning }
-
----
-
-### 📜 Digital Credentials
 
 ---
 
