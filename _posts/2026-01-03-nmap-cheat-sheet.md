@@ -3,9 +3,6 @@ title: "Nmap: The Ultimate Recon Field Manual"
 date: 2026-01-03 00:00:00 +0000
 categories: [Resources, Cheatsheets]
 tags: [nmap, recon, scanning, networking]
-image:
-  path: /assets/img/posts/nmap-banner.jpg # Optional: Add a cool banner later
-  alt: Nmap Scanning in progress
 ---
 
 # 🛰️ Nmap Reconnaissance
